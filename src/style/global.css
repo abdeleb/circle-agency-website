@@ -1,5 +1,3 @@
-/* --- GLOBAL VARIABLES --- */
-
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
 :root {
@@ -31,7 +29,7 @@ body {
   max-width: 1200px;
 }
 
-/* --- COMMON STYLES --- */
+/* COMMON STYLES */
 
 a {
   text-decoration: none;
