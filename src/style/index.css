@@ -1,10 +1,10 @@
-/* --- HOME GENERAL --- */
+/* HOME GENERAL */
 
 section {
     margin-bottom: 150px !important;
 }
 
-/* --- HERO SECTION --- */
+/* HERO SECTION */
 
 .hero-content {
     text-align: left;
@@ -77,7 +77,7 @@ section {
     bottom: -15%;
 }
 
-/* --- CLIENTS SECTION --- */
+/* CLIENTS SECTION */
 
 .clients {
     display: flex;
@@ -94,7 +94,7 @@ section {
     filter: grayscale(0);
 }
 
-/* --- RECENT PROJECTS SECTION --- */
+/* RECENT PROJECTS SECTION */
 
 .recent-projects {
     margin-top: 50px;
@@ -172,7 +172,7 @@ section {
     margin: 10px;
 }
 
-/* --- TESTIMONIAL SECTION --- */
+/* TESTIMONIAL SECTION */
 
 .testimonial {
     background-color: var(--NeutralDark);
@@ -270,7 +270,7 @@ section {
     border-radius: 50%;
 }
 
-/* --- SERVICES SECTION --- */
+/* SERVICES SECTION */
 
 .services h2 {
     margin: 30px;
@@ -310,7 +310,7 @@ section {
     background-color: var(--PrimaryLighter);
 }
 
-/* --- INTERMEDIATE TABLET / DEKTOP ADJUSTMENTS --- */
+/* INTERMEDIATE TABLET / DEKTOP ADJUSTMENTS */
 
 @media (min-width: 768px) and (max-width: 1500px) {
     .img-hero {
@@ -332,7 +332,7 @@ section {
     }
 }
 
-/* --- TABLET ADJUSTMENTS --- */
+/* TABLET ADJUSTMENTS */
 
 @media (min-width: 768px) {
     .hero {
@@ -396,7 +396,7 @@ section {
     }
 }
 
-/* --- DESKTOP ADJUSTMENTS --- */
+/* DESKTOP ADJUSTMENTS */
 
 @media (min-width: 992px) {
     h1 {
