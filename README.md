@@ -20,13 +20,13 @@ Ironhack Frontend assignment project. The objective is to build and deploy a fic
 
 <br>
 
-![projectCircleAgency](./assets/readme/circle_agency.png)
+![projectCircleAgency](./assets/circle_agency.png)
 
 ## About the project
 
 Frontend Development of a website for a fictional Circle web design company, with responsive design in three sizes (mobile, tablet and desktop).
 
-### Authors
+### Author
 
 |                                                                                                                                                                                  | Name         | GitHub                                     |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :----------------------------------------- |
