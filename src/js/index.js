@@ -11,7 +11,7 @@ window.addEventListener("load", async () => {
     container.innerHTML = "";
     articles.forEach((article) => container.appendChild(article));
   } catch (error) {
-    // Do nothing
+    //console.error("Hey!");
   } finally {
     document.querySelector("section.recent-projects").removeAttribute("hidden");
   }

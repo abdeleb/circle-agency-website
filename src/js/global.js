@@ -12,7 +12,7 @@ class Header extends HTMLElement {
   async connectedCallback() {
     this.innerHTML = `
           <style>
-              ${await load("../css/header.css")}
+              ${await load("../src/style/header.css")}
           </style>
           `;
     this.innerHTML += await load("../pages/header.html");
@@ -70,7 +70,7 @@ class Footer extends HTMLElement {
   async connectedCallback() {
     this.innerHTML = `
           <style>
-              ${await load("../css/footer.css")}
+              ${await load("../src/style/footer.css")}
           </style>
           `;
     this.innerHTML += await load("../pages/footer.html");
@@ -85,7 +85,7 @@ class Newsletter extends HTMLElement {
   async connectedCallback() {
     this.innerHTML = `
           <style>
-              ${await load("../css/newsletter.css")}
+              ${await load("../src/style/newsletter.css")}
           </style>
           `;
     this.innerHTML += await load("../pages/newsletter.html");
