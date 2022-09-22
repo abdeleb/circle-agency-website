@@ -4,9 +4,7 @@
     <img src="https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png" alt="Ironhack Logo">
     <h3 align="center">Ironhack mid-term project</h3>
     <div align="center">
-        <a href="https://ironhack-midtermproject.netlify.app">View Netlify deployed demo</a>
-        ·
-        <a href="https://docs.google.com/presentation/d/1zq5UCTGFmIwVCnoiHEO381wEek_5xUDc566gDatwlnE">View the presentation</a>
+        <a href="https://circle-agency-design.netlify.app/">View Netlify deployed demo</a>
         ·
         <a href="https://raw.githubusercontent.com/ironhack-jc/mid-term-api/main/projects">View the API endpoint</a>
     </div>
