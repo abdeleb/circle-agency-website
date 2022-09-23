@@ -66,7 +66,6 @@ This project includes the following functionalities:
 - Web components for the header, footer and newsletter
 - Scroll to top button in the home page
 - 404 Not Found error page
-- CSS animations for the Scroll to top and the 404 error page
 - Form validation
 - Modal vanilla js window to show messages
 - Favicon
